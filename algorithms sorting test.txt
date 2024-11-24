@@ -1,0 +1,71 @@
+sorting algorithms
+
+
+sorting 5 thousand averages: 
+
+bubble sort 5 -    1.9560 seconds
+merge sort  5 -    0.0221 seconds
+quick sort  5 -    0.0160 seconds
+selection   5 -    0.9496 seconds
+insertion   5 -    0.8190 seconds
+heap sort   5 -    0.0380 seconds
+counting    5 -    0.0043 seconds
+radix sort  5 -    0.0148 seconds
+shell sort  5 -    0.0222 seconds
+
+
+sorting 10 thousand averages:
+
+bubble sort 10 -   9.4784 seconds
+merge sort  10 -   0.0589 seconds
+quick sort  10 -   0.0546 seconds
+selection   10 -   5.6260 seconds
+insertion   10 -   5.6803 seconds
+heap sort   10 -   0.0902 seconds
+counting    10 -   0.0122 seconds
+radix sort  10 -   0.0480 seconds
+shell sort  10 -   0.0831 seconds
+
+
+sorting 20 thousand averages:
+
+bubble sort 20 -   38.2119 seconds
+merge sort  20 -   0.1208 seconds
+quick sort  20 -   0.1072 seconds
+selection   20 -   19.4851 seconds
+insertion   20 -   19.6456 seconds
+heap sort   20 -   0.1854 seconds
+counting    20 -   0.0231 seconds
+radix sort  20 -   0.0951 seconds
+shell sort  20 -   0.1733 seconds
+
+
+sorting 30 thousand averages:
+
+bubble sort 30 -   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
