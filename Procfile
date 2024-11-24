@@ -1,0 +1,1 @@
+worker: python youtubebot.py
