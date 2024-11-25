@@ -1,2 +1,2 @@
-worker: python youtubebot.py
-worker: python instabot.py
+worker-youtube: python youtubebot.py
+worker-instagram: python instabot.py
