@@ -40,9 +40,16 @@ radix sort  20 -   0.0951 seconds
 shell sort  20 -   0.1733 seconds
 
 
-sorting 30 thousand averages:
+####
+sorting algorithms only the fastest
 
-bubble sort 30 -   
+
+
+
+
+
+
+
 
 
 

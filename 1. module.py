@@ -1,4 +1,103 @@
 
+
+#   core python mastery 
+
+#  python standard libraries
+
+import os
+
+# current = os.getcwd()
+# print("Current directory: ", current)
+
+#os.mkdir("TestFolder")
+
+
+#print("Contents:", os.listdir("."))
+
+#os.rename("TestFolder", 'Renamedfolder')
+
+
+#os.rmdir("Renamedfolder")
+
+##############################3
+
+#  practice problem
+
+current = os.listdir()
+# text_files = []
+# for file in current:
+#     if file.endswith(".txt"):
+#         text_files.append(file)
+
+# print(text_files)
+
+
+# with open("TestFolder/sample.txt", "r+") as file:
+#     file.write("Hiiii this is a new file!!!")
+#     file.seek(0)
+#     print(file.read()) 
+
+# if os.path.exists("TestFolder/sample.txt"):
+#     os.remove("TestFolder/sample.txt")
+# else:
+#     print("doesnt exist")
+
+# os.rmdir("TestFolder")
+
+
+#####################################3
+
+
+#  sys module
+
+import sys
+
+# print("All arguments: ", sys.argv)
+# print("Script name:", sys.argv[0])
+# print("Other args: ", sys.argv[1:])
+
+# print(":")
+# sys.exit()
+
+
+# Check the size of an object
+# my_list = [1, 2, 3, 4, 5]
+# print("Size of list:", sys.getsizeof(my_list))
+
+# # Size of an integer
+# my_int = 12345
+# print("Size of integer:", sys.getsizeof(my_int))
+
+
+
+#################################3
+
+#  itertools
+
+import itertools
+
+# for item in itertools.repeat("Hiii", 5):
+#     print(item)
+# count = 0
+# for item in itertools.cycle("Hiii"):
+#     if count == 10:
+#         break
+#     print(item)
+#     count += 1
+
+
+#print(list(itertools.permutations([1, 2, 3, 4], 4)))
+
+
+# print(list(itertools.combinations([1, 2, 3, 4, 5], 3)))
+
+# print(list(itertools.combinations_with_replacement([1, 2, 3], 3)))
+
+
+
+
+
+
 #   Factorial of a number
 
 # def factorial(num):
@@ -192,15 +291,15 @@
 
 #    File handling
 
-with open("student.txt", "w") as file:
-    content = file.write("Welcome to Student database system!")
-    file.close()
+# with open("student.txt", "w") as file:
+#     content = file.write("Welcome to Student database system!")
+#     file.close()
 
 
-with open("student.txt", "r") as file:
-    content = file.read()
-    file.close()
-print(content)
+# with open("student.txt", "r") as file:
+#     content = file.read()
+#     file.close()
+# print(content)
 
 
 
