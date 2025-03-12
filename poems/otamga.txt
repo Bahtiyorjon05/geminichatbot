@@ -1,0 +1,42 @@
+            "Ey, dadam!",
+            "Boyligim dadam!",
+            "Har qachon yonimda",
+            "Do'st bo'lgan dadam!",
+
+            "Yoshligimdan menga ilm-u hikmatni",
+            "Allohni tanitib o'rgatgan dadam!",
+            "Yiqilsam doimo turgazib meni",
+            "Komillik sari yo'lagan dadam!",
+
+            "Mashinada olib borib kurs-u maktabga",
+            "Chiqishimni intiqib kutgan, ey, dadam!",
+            "Ilm ol, o'qigin, hushyor bo'lgin deb",
+            "Erursiz hikmatlarning bulog'i dadam!",
+
+            "Har doim har ishga yelib-yugurib",
+            "Faqatgina biz uchun yashagan dadam!",
+            "Inshaalloh, bularning ajrin olasiz",
+            "Bu dunyo-yu oxirat hayotin dadam!",
+
+            "Bo'lsa jannat oyoqlari ostin onamning",
+            "Qoq o'rta eshigi sizsiz, ey, dadam!",
+            "Ota rozi, Xudo rozi degan xalqimiz",
+            "Aynan sizdir o'sha, o'zimning dadam!",
+
+            "Alloh rozi bo'lsin sizdan, ey, dadam!",
+            "Umringiz-u rizqingizga baraka bersin",
+            "Bo'lib yonimizda duogo'yimiz",
+            "Ko'p yillar ko'rishga O'zi yetkazsin!",
+
+            "Qadr-qimmatingiz naqadar ulug'",
+            "Ado qilolmasmiz hech ham haqqingiz",
+            "Boshlarimiz uzra tojdek turadir",
+            "O'sha yillab ham kiygan tuflingiz",
+
+            "Mubolag'a emasdir aslo bu so'zlar",
+            "Inshaalloh, bir kuni o'zlarin oqlar",
+            "Bular ko'ngillarda abadiy qolar",
+            "Zero, qalbdan chiqqan gap qalblarga yetar!" 
+
+
+

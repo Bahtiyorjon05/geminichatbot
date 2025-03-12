@@ -2,23 +2,11 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "C/C++ Runner: Debug Session",
-      "type": "cppdbg",
+      "name": "Launch Chrome",
       "request": "launch",
-      "args": [],
-      "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
-      "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
-      "setupCommands": [
-        {
-          "description": "Enable pretty-printing for gdb",
-          "text": "-enable-pretty-printing",
-          "ignoreFailures": true
-        }
-      ]
+      "type": "chrome",
+      "url": "http://127.0.0.1:5500/index.html", // Update this with the correct local server and file path
+      "webRoot": "${workspaceFolder}"
     }
   ]
 }
